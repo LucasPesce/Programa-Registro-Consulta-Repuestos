@@ -1,0 +1,11 @@
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\bin\Debug\TP-Baquero-Lucas.exe.config
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\bin\Debug\TP-Baquero-Lucas.exe
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\bin\Debug\TP-Baquero-Lucas.pdb
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.csproj.AssemblyReference.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.csproj.SuggestedBindingRedirects.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP_Baquero_Lucas.Form1.resources
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP_Baquero_Lucas.Properties.Resources.resources
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.csproj.GenerateResource.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.csproj.CoreCompileInputs.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.exe
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\TP-Baquero-Lucas\TP-Baquero-Lucas\obj\Debug\TP-Baquero-Lucas.pdb
